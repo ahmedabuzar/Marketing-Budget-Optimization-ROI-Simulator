@@ -49,7 +49,7 @@ The dashboard helps stakeholders understand:
 ## 📷 Dashboard Screenshots
 
 ### Executive Overview
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](Screenshots/Dashboard_Overview.png)
 
 ### Budget What-If Simulation
 ![What If Simulation](screenshots/what-if-simulation.png)
